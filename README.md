@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  Exploring technology, building my foundations,<br>
+  Exploring technology, building strong foundations,<br>
   and discovering where curiosity can take me.
 </p>
 
@@ -35,137 +35,27 @@
 
 First-year **Information Technology student at Ca' Foscari University of Venice**.
 
-I'm building stronger foundations in computer science through university, personal projects and continuous experimentation.
+Interested in computer science, software and the ideas behind how technology works.
 
-Currently exploring **programming, computer architecture and software development** while discovering the areas of technology I want to pursue further.
+Currently learning, experimenting and building one step at a time.
 
 </td>
 
 <td width="45%" valign="top">
 
-### STACK
+### CURRENT FOCUS
 
-**CURRENT**
+`C` &nbsp;&nbsp; `C++`
 
-`C` &nbsp;&nbsp; `C++`  
 `Computer Architecture`
 
 <br>
 
 **FOUNDATIONS**
 
-`Java` &nbsp;&nbsp; `SQL`  
-`Database Fundamentals`
-
-<br>
-
-**WEB**
+`Java` &nbsp;&nbsp; `SQL`
 
 `HTML` &nbsp;&nbsp; `CSS` &nbsp;&nbsp; `JavaScript`
-
-</td>
-
-</tr>
-</table>
-
----
-
-### SELECTED WORK
-
-<table>
-<tr>
-
-<td width="72%" valign="top">
-
-#### Personal Portfolio
-
-An editorial-style personal website documenting my journey through technology, university and continuous learning.
-
-Designed around a clean visual language inspired by **editorial layouts, technology and Venice**.
-
-`HTML` &nbsp;&nbsp; `CSS` &nbsp;&nbsp; `JavaScript`
-
-</td>
-
-<td width="28%" valign="middle" align="right">
-
-[**LIVE SITE →**](https://riccardodelgiudice.github.io/site/)
-
-[**SOURCE CODE →**](https://github.com/riccardodelgiudice/site)
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### EDUCATION
-
-**Ca' Foscari University of Venice**
-
-Information Technology  
-`2025 — Present`
-
-Currently developing my foundations in programming, computer architecture and computer science.
-
-</td>
-
-<td width="50%" valign="top">
-
-### BACKGROUND
-
-**Istituto Tecnico Enrico Fermi**
-
-Information Technology  
-`2020 — 2025`
-
-Built my first foundations in programming, databases and software development.
-
-</td>
-
-</tr>
-</table>
-
----
-
-### CURRENT DIRECTION
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-#### 01
-
-**Build strong foundations**
-
-Improving my understanding of programming, algorithms and computer science fundamentals.
-
-</td>
-
-<td width="33%" valign="top">
-
-#### 02
-
-**Create real projects**
-
-Turning what I learn into practical projects and documented experiments.
-
-</td>
-
-<td width="33%" valign="top">
-
-#### 03
-
-**Explore what's next**
-
-Discovering new areas of technology and understanding where I want to specialize.
 
 </td>
 
