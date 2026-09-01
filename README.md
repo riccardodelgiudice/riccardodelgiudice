@@ -1,45 +1,25 @@
-<!--
-  Riccardo Del Giudice
-  GitHub Profile
--->
 
 <p align="center">
   <img
     src="./assets/github-header.svg"
     width="100%"
-    alt="Riccardo Del Giudice GitHub Header"
+    alt="Riccardo Del Giudice — Information Technology Student"
   />
 </p>
 
 <br>
-
-<h1 align="center">
-  Riccardo Del Giudice
-</h1>
-
-<p align="center">
-  <strong>INFORMATION TECHNOLOGY STUDENT</strong>
-</p>
-
-<p align="center">
-  Ca' Foscari University of Venice
-</p>
 
 <p align="center">
   Exploring technology, building my foundations,<br>
   and discovering where curiosity can take me.
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://riccardodelgiudice.github.io/site/">
-    PORTFOLIO
-  </a>
+  <a href="https://riccardodelgiudice.github.io/site/">PORTFOLIO</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/riccardodelgiudice">
-    GITHUB
-  </a>
+  <a href="https://www.linkedin.com/in/riccardo-del-giudice-029b28332/">LINKEDIN</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:hello.riccardodelgiudice@gmail.com">EMAIL</a>
 </p>
 
 <br>
@@ -48,14 +28,11 @@
 
 ### 01 / ABOUT
 
-I'm an **Information Technology student at Ca' Foscari University of Venice**.
+I'm a first-year **Information Technology student at Ca' Foscari University of Venice**.
 
-I'm currently building stronger foundations in computer science while
-exploring different areas of technology through university and personal
-projects.
+My journey in technology started at Istituto Tecnico Enrico Fermi, where I built my first foundations in programming and databases.
 
-For me, this profile is not just a collection of repositories — it's a
-record of what I'm learning, building and discovering along the way.
+Today I'm continuing that journey at university, expanding my understanding of computer science and exploring the areas of technology that interest me most.
 
 <br>
 
@@ -67,26 +44,26 @@ record of what I'm learning, building and discovering along the way.
 <tr>
 <td width="33%" valign="top">
 
-**C**
+#### C
 
-Programming fundamentals  
-and problem solving.
+Programming fundamentals,  
+problem solving and algorithms.
 
 </td>
 <td width="33%" valign="top">
 
-**C++**
+#### C++
 
-Object-oriented programming  
+Programming concepts  
 and software development.
 
 </td>
 <td width="33%" valign="top">
 
-**Computer Architecture**
+#### Computer Architecture
 
 Understanding how software  
-meets hardware.
+interacts with hardware.
 
 </td>
 </tr>
@@ -94,40 +71,38 @@ meets hardware.
 
 <br>
 
----
+**FOUNDATIONS**
 
-### 03 / FOUNDATIONS
-
-`Java` &nbsp;&nbsp; `SQL` &nbsp;&nbsp; `Databases` &nbsp;&nbsp; `HTML` &nbsp;&nbsp; `CSS`
+`Java` &nbsp;&nbsp; `SQL` &nbsp;&nbsp; `Database Fundamentals`
 
 <br>
 
 ---
 
-### 04 / SELECTED WORK
+### 03 / SELECTED WORK
 
 #### Personal Portfolio
 
-An editorial-style personal website documenting my journey through
-technology and university.
+An editorial-style personal website documenting my journey through technology and university.
 
-**HTML · CSS · JavaScript**
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript`
 
-[VIEW PROJECT →](https://riccardodelgiudice.github.io/site/)
-&nbsp;&nbsp;
+[VIEW WEBSITE →](https://riccardodelgiudice.github.io/site/)
+&nbsp;&nbsp;&nbsp;
 [SOURCE CODE →](https://github.com/riccardodelgiudice/site)
 
 <br>
 
 ---
 
-### 05 / EDUCATION
+### 04 / EDUCATION
 
 **2025 — PRESENT**
 
 #### Ca' Foscari University of Venice
 
-Bachelor's Degree in Information Technology
+Bachelor's Degree in Information Technology  
+First year
 
 <br>
 
@@ -135,30 +110,40 @@ Bachelor's Degree in Information Technology
 
 #### Istituto Tecnico Enrico Fermi
 
-Information Technology
+Five years of Information Technology studies
 
 <br>
 
 ---
 
-### 06 / CURRENTLY
+### 05 / NOW
 
-- studying Information Technology
-- strengthening my C and C++ foundations
-- learning more about computer architecture
+Currently focused on:
+
+- strengthening my foundations in C and C++
+- understanding computer architecture
+- improving my problem-solving skills
 - building personal projects
-- exploring new areas of computer science
+- exploring different areas of computer science
+
+<br>
+
+---
+
+### 06 / CONNECT
+
+Whether you want to talk about technology, share an idea or simply connect:
+
+[PORTFOLIO](https://riccardodelgiudice.github.io/site/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[LINKEDIN](https://www.linkedin.com/in/riccardo-del-giudice-029b28332/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[EMAIL](mailto:hello.riccardodelgiudice@gmail.com)
 
 <br>
 
 ---
 
 <p align="center">
-  <sub>LEARNING &nbsp;·&nbsp; BUILDING &nbsp;·&nbsp; GROWING</sub>
-</p>
-
-<p align="center">
-  <a href="https://riccardodelgiudice.github.io/site/">
-    riccardodelgiudice.github.io/site
-  </a>
+  <sub>LEARNING &nbsp;&nbsp;·&nbsp;&nbsp; BUILDING &nbsp;&nbsp;·&nbsp;&nbsp; GROWING</sub>
 </p>
