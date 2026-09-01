@@ -26,124 +26,166 @@
 
 ---
 
-### 01 / ABOUT
-
-I'm a first-year **Information Technology student at Ca' Foscari University of Venice**.
-
-My journey in technology started at Istituto Tecnico Enrico Fermi, where I built my first foundations in programming and databases.
-
-Today I'm continuing that journey at university, expanding my understanding of computer science and exploring the areas of technology that interest me most.
-
-<br>
-
----
-
-### 02 / CURRENTLY EXPLORING
-
 <table>
 <tr>
-<td width="33%" valign="top">
 
-#### C
+<td width="55%" valign="top">
 
-Programming fundamentals,  
-problem solving and algorithms.
+### ABOUT
 
-</td>
-<td width="33%" valign="top">
+First-year **Information Technology student at Ca' Foscari University of Venice**.
 
-#### C++
+I'm building stronger foundations in computer science through university, personal projects and continuous experimentation.
 
-Programming concepts  
-and software development.
+Currently exploring **programming, computer architecture and software development** while discovering the areas of technology I want to pursue further.
 
 </td>
-<td width="33%" valign="top">
 
-#### Computer Architecture
+<td width="45%" valign="top">
 
-Understanding how software  
-interacts with hardware.
+### STACK
 
-</td>
-</tr>
-</table>
+**CURRENT**
+
+`C` &nbsp;&nbsp; `C++`  
+`Computer Architecture`
 
 <br>
 
 **FOUNDATIONS**
 
-`Java` &nbsp;&nbsp; `SQL` &nbsp;&nbsp; `Database Fundamentals`
+`Java` &nbsp;&nbsp; `SQL`  
+`Database Fundamentals`
 
 <br>
 
+**WEB**
+
+`HTML` &nbsp;&nbsp; `CSS` &nbsp;&nbsp; `JavaScript`
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-### 03 / SELECTED WORK
+### SELECTED WORK
+
+<table>
+<tr>
+
+<td width="72%" valign="top">
 
 #### Personal Portfolio
 
-An editorial-style personal website documenting my journey through technology and university.
+An editorial-style personal website documenting my journey through technology, university and continuous learning.
 
-`HTML` &nbsp; `CSS` &nbsp; `JavaScript`
+Designed around a clean visual language inspired by **editorial layouts, technology and Venice**.
 
-[VIEW WEBSITE →](https://riccardodelgiudice.github.io/site/)
-&nbsp;&nbsp;&nbsp;
-[SOURCE CODE →](https://github.com/riccardodelgiudice/site)
+`HTML` &nbsp;&nbsp; `CSS` &nbsp;&nbsp; `JavaScript`
 
-<br>
+</td>
 
----
+<td width="28%" valign="middle" align="right">
 
-### 04 / EDUCATION
+[**LIVE SITE →**](https://riccardodelgiudice.github.io/site/)
 
-**2025 — PRESENT**
+[**SOURCE CODE →**](https://github.com/riccardodelgiudice/site)
 
-#### Ca' Foscari University of Venice
+</td>
 
-Bachelor's Degree in Information Technology  
-First year
-
-<br>
-
-**2020 — 2025**
-
-#### Istituto Tecnico Enrico Fermi
-
-Five years of Information Technology studies
-
-<br>
+</tr>
+</table>
 
 ---
 
-### 05 / NOW
+<table>
+<tr>
 
-Currently focused on:
+<td width="50%" valign="top">
 
-- strengthening my foundations in C and C++
-- understanding computer architecture
-- improving my problem-solving skills
-- building personal projects
-- exploring different areas of computer science
+### EDUCATION
 
-<br>
+**Ca' Foscari University of Venice**
+
+Information Technology  
+`2025 — Present`
+
+Currently developing my foundations in programming, computer architecture and computer science.
+
+</td>
+
+<td width="50%" valign="top">
+
+### BACKGROUND
+
+**Istituto Tecnico Enrico Fermi**
+
+Information Technology  
+`2020 — 2025`
+
+Built my first foundations in programming, databases and software development.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 06 / CONNECT
+### CURRENT DIRECTION
 
-Whether you want to talk about technology, share an idea or simply connect:
+<table>
+<tr>
 
-[PORTFOLIO](https://riccardodelgiudice.github.io/site/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[LINKEDIN](https://www.linkedin.com/in/riccardo-del-giudice-029b28332/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[EMAIL](mailto:hello.riccardodelgiudice@gmail.com)
+<td width="33%" valign="top">
 
-<br>
+#### 01
+
+**Build strong foundations**
+
+Improving my understanding of programming, algorithms and computer science fundamentals.
+
+</td>
+
+<td width="33%" valign="top">
+
+#### 02
+
+**Create real projects**
+
+Turning what I learn into practical projects and documented experiments.
+
+</td>
+
+<td width="33%" valign="top">
+
+#### 03
+
+**Explore what's next**
+
+Discovering new areas of technology and understanding where I want to specialize.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <p align="center">
-  <sub>LEARNING &nbsp;&nbsp;·&nbsp;&nbsp; BUILDING &nbsp;&nbsp;·&nbsp;&nbsp; GROWING</sub>
+  <sub>
+    LEARNING &nbsp;&nbsp;·&nbsp;&nbsp;
+    BUILDING &nbsp;&nbsp;·&nbsp;&nbsp;
+    GROWING
+  </sub>
+</p>
+
+<p align="center">
+  <a href="https://riccardodelgiudice.github.io/site/">PORTFOLIO</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/riccardo-del-giudice-029b28332/">LINKEDIN</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:hello.riccardodelgiudice@gmail.com">EMAIL</a>
 </p>
