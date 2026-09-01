@@ -35,9 +35,7 @@
 
 First-year **Information Technology student at Ca' Foscari University of Venice**.
 
-Interested in computer science, software and the ideas behind how technology works.
-
-Currently learning, experimenting and building one step at a time.
+Interested in computer science, software and understanding how technology works.
 
 </td>
 
@@ -70,12 +68,4 @@ Currently learning, experimenting and building one step at a time.
     BUILDING &nbsp;&nbsp;·&nbsp;&nbsp;
     GROWING
   </sub>
-</p>
-
-<p align="center">
-  <a href="https://riccardodelgiudice.github.io/site/">PORTFOLIO</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/riccardo-del-giudice-029b28332/">LINKEDIN</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:hello.riccardodelgiudice@gmail.com">EMAIL</a>
 </p>
