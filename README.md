@@ -31,8 +31,6 @@
 
 <td width="55%" valign="top">
 
-<img src="./assets/section-about.svg" width="100%" />
-
 ### ABOUT
 
 First-year **Information Technology student at Ca' Foscari University of Venice**.
@@ -42,8 +40,6 @@ Interested in computer science, software and understanding how technology works.
 </td>
 
 <td width="45%" valign="top">
-
-<img src="./assets/section-focus.svg" width="100%" />
 
 ### CURRENT FOCUS
 
