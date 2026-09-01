@@ -1,0 +1,66 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="420" fill="white"/>
+
+  <!-- Outer frame -->
+  <line x1="70" y1="70" x2="1530" y2="70" stroke="black" stroke-width="2"/>
+  <line x1="70" y1="350" x2="1530" y2="350" stroke="black" stroke-width="2"/>
+
+  <!-- Left content -->
+  <text x="120" y="145" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="black" letter-spacing="1.5">
+    RICCARDO
+  </text>
+  <text x="120" y="205" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="black" letter-spacing="1.5">
+    DEL GIUDICE
+  </text>
+
+  <text x="122" y="250" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="black" letter-spacing="4">
+    INFORMATION TECHNOLOGY STUDENT
+  </text>
+
+  <text x="122" y="280" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="black" letter-spacing="2">
+    CA' FOSCARI UNIVERSITY OF VENICE
+  </text>
+
+  <!-- Animated editorial line -->
+  <text x="122" y="318" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="black" letter-spacing="3">
+    LEARNING
+  </text>
+
+  <text x="475" y="318" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="black" letter-spacing="3">
+    BUILDING
+  </text>
+
+  <text x="855" y="318" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="black" letter-spacing="3">
+    GROWING
+  </text>
+
+  <line x1="255" y1="312" x2="420" y2="312" stroke="black" stroke-width="1.5" stroke-dasharray="165" stroke-dashoffset="165">
+    <animate attributeName="stroke-dashoffset" from="165" to="0" dur="1.2s" fill="freeze" />
+  </line>
+
+  <line x1="610" y1="312" x2="800" y2="312" stroke="black" stroke-width="1.5" stroke-dasharray="190" stroke-dashoffset="190">
+    <animate attributeName="stroke-dashoffset" from="190" to="0" dur="1.6s" fill="freeze" />
+  </line>
+
+  <!-- Right editorial block -->
+  <line x1="1120" y1="110" x2="1450" y2="110" stroke="black" stroke-width="1"/>
+  <text x="1120" y="140" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="black" letter-spacing="3">
+    PORTFOLIO PROFILE
+  </text>
+
+  <text x="1120" y="190" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="black" letter-spacing="1">
+    Venice / Technology / Growth
+  </text>
+
+  <text x="1120" y="230" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="black" letter-spacing="1.2">
+    A clean GitHub identity inspired
+  </text>
+  <text x="1120" y="255" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="black" letter-spacing="1.2">
+    by the editorial language of
+  </text>
+  <text x="1120" y="280" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="black" letter-spacing="1.2">
+    my personal website.
+  </text>
+
+  <line x1="1120" y1="310" x2="1450" y2="310" stroke="black" stroke-width="1"/>
+</svg>
