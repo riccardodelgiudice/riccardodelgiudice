@@ -5,9 +5,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/riccardodelgiudice/site/main/assets/hero-venice-manga-1280.webp"
+    src="./assets/github-header.svg"
     width="100%"
-    alt="Riccardo Del Giudice — Venice"
+    alt="Riccardo Del Giudice GitHub Header"
   />
 </p>
 
